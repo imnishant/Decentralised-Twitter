@@ -1,3 +1,4 @@
 # Decentralised Twitter
 
-This is a an dApp using embark by status in ethereum blockchain.
+This is a Decentralised Application using embark by status in ethereum blockchain.
+
