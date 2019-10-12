@@ -86,6 +86,8 @@ contract DTwitter {
 	owners[msg.sender] = usernameHash;
         
     }
+    
+    
 
     /**
      * editAccount
